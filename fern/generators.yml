@@ -21,4 +21,5 @@ groups:
           location: local-file-system
           path: ../sdks/python
 api:
-  path: openapi\openapi.yaml
+  specs:
+    - openapi: openapi\openapi.yaml
